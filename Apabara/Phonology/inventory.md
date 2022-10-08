@@ -1,6 +1,6 @@
 # Apabara's Phonetic Inventory
 
-## Phonology
+## Phonology & Orthography
 
 ### Consonants
 
@@ -12,7 +12,7 @@
 |  **fricative**  |            |       s      |       z /ʃ/      |             |           |
 |  **fricative**  |   (w /v/)  |              |      (z /ʒ/)     |             |           |
 | **approximant** |      w     |    (r /l/)   |                  |    y /j/    |           |
-|    **rhotic**   |            |   r /ɾ...ʁ/  |                  |             |           |
+|    **rhotic**   |            |    r /ɾ~ʁ/   |                  |             |           |
 
 ### Vowels
 
@@ -21,30 +21,6 @@
 |   **close**   |     i     |            |     u    |
 | **close-mid** |     e     |            |     o    |
 |    **open**   |           |      a     |          |
-
-## Orthography
-
-| **phoneme** | **grapheme** |  **name**  |
-|:-----------:|:------------:|:----------:|
-|      m      |       m      |     ma     |
-|      n      |       n      |     na     |
-|      p      |       p      |     pa     |
-|      b      |       b      |     ba     |
-|      t      |       t      |     ta     |
-|      d      |       d      |     da     |
-|      k      |       k      |     ka     |
-|      g      |       g      |     ga     |
-|      s      |       s      |     sa     |
-|      ʃ      |       z      |     za     |
-|      t͡ʃ     |       x      |     xa     |
-|      j      |       y      |     ya     |
-|      w      |       w      |     wa     |
-|      r      |       r      |     ra     |
-|      a      |       a      |      a     |
-|      e      |       e      |      e     |
-|      i      |       i      |      i     |
-|      o      |       o      |      o     |
-|      u      |       u      |      u     |
 
 ### Alphabetical Order
 
