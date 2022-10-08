@@ -5,13 +5,13 @@
 ### Consonants
 
 |                 | **labial** | **alveolar** | **post-aveolar** | **palatal** | **velar** |
-|:---------------:|:----------:|:------------:|:----------------:|:-----------:||:---------:|
+|:---------------:|:----------:|:------------:|:----------------:|:-----------:|:--------:|
 |    **nasal**    |      m     |       n      |                  |             |           |
-| **stop (vl/a)** |     p/p    |      t/d     |        t͡ʃ        |             |    k/g    |
-| **stop (v/ua)** |     b/p    |      t/d     |                  |             |    k/g    |
-|  **fricative**  |            |       s      |         ʃ        |             |           |
-| **approximant** |      w     |      (l)     |                  |      j      |           |
-|    **rhotic**   |            |       r      |                  |             |           |
+| **stop (vl/a)** |      p     |       t      |     x \[t͡ʃ\]     |             |     k     |
+| **stop (v/ua)** |      b     |       d      |                  |             |     g     |
+|  **fricative**  |            |       s      |      z \[ʃ\]     |             |           |
+| **approximant** |      w     |              |                  |   y \[j\]   |           |
+|    **rhotic**   |            |   r \[\]      |                  |             |           |
 
 * w may be pronunced as v
 * t͡ʃ and ʃ may be voiced
