@@ -12,7 +12,11 @@
 | **approximant** |              |              |                  |      j      |        w       |           |
 |    **flap**     |              |       r      |                  |             |                |           |
 
-*voiceless/voiced*
+* w may be pronunced as v
+* t͡ʃ and ʃ may be voiced
+* whatever rodic or l
+
+*voiceless/voiced (or aspirated/unaspirated)*
 
 ### Vowels
 |               | **front** | **middle** | **back** |
