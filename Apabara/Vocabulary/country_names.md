@@ -1,14 +1,17 @@
 # List of Country Names in Apabara
 
 ## "Apabarization"
+
 Same as toki pona's approach.
 
 ## Demonyms
+
 Created by suffixing with *"xe"* (or *"xi"*).
 
 e.g. xiley -> xiley*xe* or xiley*xi*
 
 ## List
+
 | **English** |  **Apabara**  |
 |:-----------:|:-------------:|
 |   Panama    |   *panamay*   |

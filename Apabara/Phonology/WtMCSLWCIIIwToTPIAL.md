@@ -1,4 +1,5 @@
 # What's the Most Commonly Spoken Language Whose <br/> Consonant Inventory Is Incompatible with That of <br/> This Particular Internacional Auxiliary Language?
+
 if (t͡ʃ is too difficult for French-speaking people) {
 
   it's French.
@@ -14,6 +15,7 @@ if (t͡ʃ is too difficult for French-speaking people) {
 }
 
 ## (Mostly) Compatible With
+
 * English
 * Chinese
 * Hindi (kinda)

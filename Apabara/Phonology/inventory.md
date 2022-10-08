@@ -3,6 +3,7 @@
 ## Phonology
 
 ### Consonants
+
 |                 | **bilabial** | **alveolar** | **post-aveolar** | **palatal** | **labiovelar** | **velar** |
 |:---------------:|:------------:|:------------:|:----------------:|:-----------:|:--------------:|:---------:|
 |    **nasal**    |       m      |       n      |                  |             |                |           |
@@ -15,10 +16,10 @@
 * w may be pronunced as v
 * t͡ʃ and ʃ may be voiced
 * whatever rodic or l
-
-*voiceless/voiced (or aspirated/unaspirated)*
+* *voiceless/voiced (or aspirated/unaspirated)*
 
 ### Vowels
+
 |               | **front** | **middle** | **back** |
 |:-------------:|:---------:|:----------:|:--------:|
 |   **close**   |     i     |            |     u    |
@@ -26,6 +27,7 @@
 |    **open**   |           |      a     |          |
 
 ## Orthography
+
 | **phoneme** | **grapheme** |  **name**  |
 |:-----------:|:------------:|:----------:|
 |      m      |       m      |     ma     |
@@ -49,6 +51,7 @@
 |      u      |       u      |      u     |
 
 ### Alphabetical Order
+
 | a | p  | b  | r  | e | t  | d  | s  | i | k  | g  | x  | o | m  | n  | z  | u | w  | y  |
 |:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|
 |*a*|*pa*|*ba*|*ra*|*a*|*ta*|*da*|*sa*|*i*|*ka*|*ga*|*xa*|*o*|*ma*|*na*|*za*|*u*|*wa*|*ya*|
