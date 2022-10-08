@@ -18,23 +18,23 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 |  Colombia   |   *kolombay*  |
 |    Chile    |    *xiley*    |
 |     USA     |     *usey*    |
-| Deutschland | *doxiray (doyxiray)* |
-|   Uruguay   |    *urugay*   |
+| Deutschland |   *doxiray*   |
+|   Uruguay   |    *uruway*   |
 |  Argentina  |  *argentinay* |
 |   Bolivia   |   *bolibay*   |
 |     Perú    |    *peruy*    |
 |   Ecuador   |   *ekwadori*  |
 |  Venezuela  |  *beneswelay* |
 |    Japón    |    *niponi*   |
-|    Rusia    |    *rasiay (rosiay)* |
+|    Rusia    |    *rasiay*   |
 |    Haití    |     *ayti*    |
 | South Korea |  *deaminguy*  |
 | North Korea |    *pukani*   |
 | New Zealand |  *niusilandi* |
 |   Canada    |   *kanaday*   |
-|   México    |   *megikoy*   |
+|   México    |   *mezikoy*   |
 | Costa Rica  |  *kostarikay* |
-| Puerto Rico |  *portoricoy* |
+| Puerto Rico |  *portorikoy* |
 | El Salvador |  *salbadori*  |
 |   Rwanda    |   *ruanday*   |
 |   China     |   *xongoy*    |
@@ -45,5 +45,6 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 |  Suriname   |   *surinami*  |
 |    Suomi    |    *suomi*    |
 |    Kenya    |    *keniay*   |
-|   Country   |   *apabara*   |
+|   Taiwan    |   *taywani*   |
+|  Australia  |  *osterariay* |
 |   Country   |   *apabara*   |
