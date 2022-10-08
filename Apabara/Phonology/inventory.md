@@ -8,11 +8,16 @@
 |:---------------:|:----------:|:------------:|:----------------:|:-----------:|:---------:|
 |    **nasal**    |      m     |       n      |                  |             |           |
 |    **stop**     |      p     |       t      |      x /t͡ʃ/      |             |     k     |
-|    **stop**     |      b     |       d      |     (x /dʒ/)     |             |     g     |
-|  **fricative**  |            |       s      |       z /ʃ/      |             |           |
-|  **fricative**  |   (w /v/)  |              |      (z /ʒ/)     |             |           |
-| **approximant** |      w     |    (r /l/)   |                  |    y /j/    |           |
-|    **rhotic**   |            |    r /ɾ~ʁ/   |                  |             |           |
+|    **stop**     |      b     |       d      |                  |             |     g     |
+|  **fricative**  |            |       s      |                  |             |           |
+| **approximant** |      w     |              |                  |    y /j/    |           |
+|    **rhotic**   |            |     r /ɾ/    |                  |             |           |
+
+###### *Notes:*
+
+1. the pronunciation of *w* may vary from /w/ to /v/.
+2. the pronunciation of *x* may vary from /t͡ʃ/ to /ʃ/, /dʒ/ or /ʒ/.
+3. the pronunciation of *r* may vary from /ɾ/ to /ʁ/. /l/ is also a valid pronunciation.
 
 ### Vowels
 
@@ -24,6 +29,6 @@
 
 ### Alphabetical Order
 
-| a | p  | b  | r  | e | t  | d  | s  | i | k  | g  | x  | o | m  | n  | z  | u | w  | y  |
-|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|
-|*a*|*pa*|*ba*|*ra*|*e*|*ta*|*da*|*sa*|*i*|*ka*|*ga*|*xa*|*o*|*ma*|*na*|*za*|*u*|*wa*|*ya*|
+| a | p  | b  | r  | e | t  | d  | s  | i | k  | g  | x  | o | m  | n  | u | w  | y  |
+|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:-:|:--:|:--:|
+|*a*|*pa*|*ba*|*ra*|*e*|*ta*|*da*|*sa*|*i*|*ka*|*ga*|*xa*|*o*|*ma*|*na*|*u*|*wa*|*ya*|

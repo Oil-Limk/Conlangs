@@ -14,7 +14,7 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 
 | **English** |  **Apabara**  |
 |:-----------:|:-------------:|
-| Argentina   | *Arxentina*   |
+| Argentina   | *Argentina*   |
 | Australia   | *Osteraria*   |
 | Austria     | *Usteray*     |
 | Bolivia     | *Bolibia*     |
