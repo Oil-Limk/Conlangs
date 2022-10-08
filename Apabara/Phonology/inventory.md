@@ -4,18 +4,18 @@
 
 ### Consonants
 
-|                 | **bilabial** | **alveolar** | **post-aveolar** | **palatal** | **labiovelar** | **velar** |
-|:---------------:|:------------:|:------------:|:----------------:|:-----------:|:--------------:|:---------:|
-|    **nasal**    |       m      |       n      |                  |             |                |           |
-|   **plosive**   |      p/b     |      t/d     |                  |             |                |    k/g    |
-|  **fricative**  |              |       s      |         ʃ        |             |                |           |
-| **affricative** |              |              |        t͡ʃ        |             |                |           |
-| **approximant** |              |              |                  |      j      |        w       |           |
-|    **flap**     |              |       r      |                  |             |                |           |
+|                 | **labial** | **alveolar** | **post-aveolar** | **palatal** | **velar** |
+|:---------------:|:----------:|:------------:|:----------------:|:-----------:||:---------:|
+|    **nasal**    |      m     |       n      |                  |             |           |
+| **stop (vl/a)** |     p/p    |      t/d     |        t͡ʃ        |             |    k/g    |
+| **stop (v/ua)** |     b/p    |      t/d     |                  |             |    k/g    |
+|  **fricative**  |            |       s      |         ʃ        |             |           |
+| **approximant** |      w     |      (l)     |                  |      j      |           |
+|    **rhotic**   |            |       r      |                  |             |           |
 
 * w may be pronunced as v
 * t͡ʃ and ʃ may be voiced
-* whatever rodic or l
+* whatever rhotic or l
 * *voiceless/voiced (or aspirated/unaspirated)*
 
 ### Vowels
