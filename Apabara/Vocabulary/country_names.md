@@ -10,41 +10,41 @@ Created by suffixing with *"xe"* (or *"xi"*).
 
 e.g. xiley -> xiley*xe* or xiley*xi*
 
-## List
+## List of Suggested Names
 
 | **English** |  **Apabara**  |
 |:-----------:|:-------------:|
-|   Panama    |   *panamay*   |
-|  Colombia   |   *kolombay*  |
-|    Chile    |    *xiley*    |
-|     USA     |     *usey*    |
-| Deutschland |   *doxiray*   |
-|   Uruguay   |    *uruway*   |
-|  Argentina  |  *argentinay* |
-|   Bolivia   |   *bolibay*   |
-|     Perú    |    *peruy*    |
-|   Ecuador   |   *ekwadori*  |
-|  Venezuela  |  *beneswelay* |
-|    Japón    |    *niponi*   |
-|    Rusia    |    *rasiay*   |
-|    Haití    |     *ayti*    |
-| South Korea |  *deaminguy*  |
-| North Korea |    *pukani*   |
-| New Zealand |  *niusilandi* |
-|   Canada    |   *kanaday*   |
-|   México    |   *mezikoy*   |
-| Costa Rica  |  *kostarikay* |
-| Puerto Rico |  *portorikoy* |
-| El Salvador |  *salbadori*  |
-|   Rwanda    |   *ruanday*   |
-|   China     |   *xongoy*    |
-|   Hungary   | *mayarorsagi* |
-|   Hawaii    |    *away*     |
-|  Palestine  |  *pilastini*  |
-|   Austria   |   *usterai*   |
-|  Suriname   |   *surinami*  |
-|    Suomi    |    *suomi*    |
-|    Kenya    |    *keniay*   |
-|   Taiwan    |   *taywani*   |
-|  Australia  |  *osterariay* |
-|   Country   |   *apabara*   |
+| Argentina   | *Arxentina*   |
+| Australia   | *Osteraria*   |
+| Austria     | *Usteray*     |
+| Bolivia     | *Bolibia*     |
+| Canada      | *Kanada*      |
+| Chile       | *Xile*        |
+| China       | *Xongo*       |
+| Colombia    | *Kolombia*    |
+| Costa Rica  | *Kostarika*   |
+| Deutschland | *Doxiran*     |
+| Ecuador     | *Ekwador*     |
+| El Salvador | *Salbador*    |
+| Haití       | *Ayti*        |
+| Hawaii      | *Away*        |
+| Hungary     | *Mayarorsagi* |
+| Japón       | *Nipon*       |
+| Kenya       | *Kenya*       |
+| México      | *Meziko*      |
+| North Korea | *Pukani*      |
+| New Zealand | *Niusiland*   |
+| Palestine   | *Pilastini*   |
+| Panama      | *Panama*      |
+| Perú        | *Peru*        |
+| Puerto Rico | *Portoriko*   |
+| Rusia       | *Rasia*       |
+| Rwanda      | *?*           |
+| South Korea | *Deamingu*    |
+| Suriname    | *Surinam?*    |
+| Suomi       | *Suomi*       |
+| Taiwan      | *Taywan*      |
+| Uruguay     | *Uruway*      |
+| USA         | *Usey*        |
+| Venezuela   | *Beneswela*   |
+| Country     | *Apabara*     |
