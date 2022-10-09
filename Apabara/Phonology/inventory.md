@@ -23,11 +23,11 @@
 
 ### Vowels
 
-|               | **front** | **middle** | **back** |
-|:-------------:|:---------:|:----------:|:--------:|
-| **close**     | i         |            | u        |
-| **mid-close** | e         |            | o        |
-<td> **open** </td>      <td colspan=3 align='center'>a</td>
+|               | **front** | **middle** | **back** 
+|:-------------:|:---------:|:----------:|:--------:
+| **close**     | i         |            | u        
+| **mid-close** | e         |            | o        
+| **open**       <td colspan=3 align='center'>a</td>
 
 |               | **front** | **middle** | **back** |
 |:-------------:|:---------:|:----------:|:--------:|
