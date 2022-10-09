@@ -51,6 +51,6 @@
 
 ### Alphabetical Order
 
-| a | p  | b  | r  | e | t  | d  | s  | i | k  | g  | l  | o | m  | n  | x  | u | w  | y  |
+| a | p  | b  | r  | e | t  | d  | s  | i | k  | g  | x  | o | m  | n  | l  | u | w  | y  |
 |:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|:--:|:-:|:--:|:--:|
-|*a*|*pa*|*ba*|*ra*|*e*|*ta*|*da*|*sa*|*i*|*ka*|*ga*|*la*|*o*|*ma*|*na*|*xa*|*u*|*wa*|*ya*|
+|*a*|*pa*|*ba*|*ra*|*e*|*ta*|*da*|*sa*|*i*|*ka*|*ga*|*xa*|*o*|*ma*|*na*|*la*|*u*|*wa*|*ya*|
