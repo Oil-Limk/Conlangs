@@ -23,6 +23,6 @@ Easiest to implement and get used to.
 
 ## Names for powers of 10
 
-$10^{0}$: 
+$10^{0}$ : 10<sup>0</sup>
 
 ## Composing Bigger Numbers
