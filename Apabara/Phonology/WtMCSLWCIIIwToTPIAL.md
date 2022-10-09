@@ -1,6 +1,6 @@
 # What's the Most Commonly Spoken Language Whose <br/> Consonant Inventory Is Incompatible with That of <br/> This Particular Internacional Auxiliary Language?
 
-It's Hausa or Egyptian Spoken Arabic. They don't pronunce /p/, apparently.
+It's Japanese.
 
 ## Apabara Is (Mostly) Compatible With
 
@@ -16,7 +16,8 @@ It's Hausa or Egyptian Spoken Arabic. They don't pronunce /p/, apparently.
 1. Urdu
 1. Indonesian
 1. Standar German
-1. Japanese
+
+to be checked:
 1. Nigerian Pidgin
 1. Marathi
 1. Telugu
