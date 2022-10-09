@@ -24,7 +24,7 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 | Colombia    | *Kolombia*    |
 | Costa Rica  | *Kostarika*   |
 | Deutschland | *Doxiran*     |
-| Ecuador     | *Ekwador*     |
+| Ecuador     | *Ekuador*     |
 | El Salvador | *Salbador*    |
 | Haití       | *Ayti*        |
 | Hawaii      | *Away*        |
@@ -33,18 +33,19 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 | Kenya       | *Kenya*       |
 | México      | *Mexiko*      |
 | North Korea | *Pukani*      |
-| New Zealand | *Niusiland*   |
+| New Zealand | *Niusilan*    |
 | Palestine   | *Pilastini*   |
 | Panama      | *Panama*      |
+| Paraguay    | *Paraway*     |
 | Perú        | *Peru*        |
 | Puerto Rico | *Portoriko*   |
 | Rusia       | *Rasia*       |
-| Rwanda      | *?*           |
+| Rwanda      | *Urwanda*     |
 | South Korea | *Deamingu*    |
-| Suriname    | *Surinam?*    |
+| Suriname    | *Suriname*    |
 | Suomi       | *Suomi*       |
 | Taiwan      | *Taywan*      |
 | Uruguay     | *Uruway*      |
 | USA         | *Usey*        |
-| Venezuela   | *Beneswela*   |
+| Venezuela   | *Benesuela*   |
 | Country     | *Apabara*     |
