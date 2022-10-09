@@ -5,19 +5,19 @@ It's Japanese.
 ## Apabara Is (Mostly) Compatible With
 
 1. English
-1. Chinese
-1. Hindi
-1. Spanish
-1. French
-1. Standar Arabic
-1. Bengali
-1. Russian
-1. Portuguese
-1. Urdu
-1. Indonesian
-1. Standar German
+2. Chinese
+3. Hindi
+4. Spanish
+5. French
+6. Standar Arabic
+7. Bengali
+8. Russian
+9. Portuguese
+10. Urdu
+11. Indonesian
+12. Standar German
 
-to be checked:
+to be checked (if they have /l/ AND /r/):
 1. Nigerian Pidgin
 1. Marathi
 1. Telugu
@@ -43,4 +43,4 @@ to be checked:
 1. Polish
 1. Lingala
 
-*numbers on this list correspond to those on [this other list](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers).*
+*order of this list corresponds to the order on [this other list](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers).*

@@ -6,7 +6,7 @@
 |:------------:|:----------------------------------------:|
 |       C      | p, b, r, t, d, s, k, g, l, m, n, x, w, y |
 |       V      |               a, e, i, o, u              |
-|       N      |             m, n, r, y, s, l             |
+|       N      |             r, s, l, m, n, y             |
 
 ## Basic Structure
 
@@ -50,7 +50,7 @@ With this restrains, Apabara has 551 posible syllables.
 
 1. Same letter clusters.
 2. np, nb, nm.
-3. mr, mt, md, mk, mg, mx, mw, my.
+3. mr, mt, md, mk, mg, ml, mx, mw, my.
 4. ry.
 5. sr, sx, sy.
-6. l
+6. lr, ln, lw, ly.

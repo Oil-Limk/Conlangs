@@ -48,4 +48,5 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 | Uruguay     | *Uruway*      |
 | USA         | *Usey*        |
 | Venezuela   | *Benesuela*   |
+| Esperantio  | *Esperantio*  |
 | Country     | *Apabara*     |
