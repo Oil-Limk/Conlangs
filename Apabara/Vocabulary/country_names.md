@@ -15,7 +15,7 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 | **English** |  **Apabara**  |
 |:-----------:|:-------------:|
 | Argentina   | *Argentina*   |
-| Australia   | *Osteraria*   |
+| Australia   | *Osteralia*   |
 | Austria     | *Usteray*     |
 | Bolivia     | *Bolibia*     |
 | Canada      | *Kanada*      |
@@ -23,7 +23,7 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 | China       | *Xongo*       |
 | Colombia    | *Kolombia*    |
 | Costa Rica  | *Kostarika*   |
-| Deutschland | *Doxiran*     |
+| Deutschland | *Doyxiran*    |
 | Ecuador     | *Ekuador*     |
 | El Salvador | *Salbador*    |
 | Haití       | *Ayti*        |
