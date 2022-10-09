@@ -23,7 +23,7 @@
 
 ### Vowels
 
-|               | **front** | **middle** | **back** 
+| <td colspan=1 align='center'><b>front</b> <td colspan=1 align='center'><b>middle</b></td> <td colspan=1 align='center'><b>back</b></td>
 |:-------------:|:---------:|:----------:|:--------:
 | **close**     | i         |            | u        
 | **mid-close** | e         |            | o        
