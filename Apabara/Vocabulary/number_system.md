@@ -10,6 +10,8 @@ Easiest to implement and get used to.
 
 ## Names from 0 to 9
 
+0. nul
+
 ## Names for powers of 10
 
 ## Composing Bigger Numbers
