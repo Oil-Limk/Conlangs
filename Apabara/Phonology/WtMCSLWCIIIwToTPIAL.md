@@ -1,8 +1,8 @@
 # What's the Most Commonly Spoken Language Whose <br/> Consonant Inventory Is Incompatible with That of <br/> This Particular Internacional Auxiliary Language?
 
-it isn't Tamil, apparently.
+it's Hausa or Egyptian Spoken Arabic, they don't pronunce /p/, apparently.
 
-## (Mostly) Compatible With
+## Apabara Is (Mostly) Compatible With
 
 1. English
 2. Chinese
@@ -24,7 +24,22 @@ it isn't Tamil, apparently.
 18. Tamil
 19. Yue Chinese
 20. Vietnamese
-21. 
-22. 
-23. 
-24. 
+21. Tagalog
+22. Wu Chinese
+23. Korean
+24. Iranian Persian
+27. Swahili
+28. Javanese
+29. Italian
+30. Western Punjabi
+31. Kannada
+32. Gujarati
+33. Thai
+34. Amharic
+35. Bhojpuri
+36. Eastern Punjabi
+41. Burmese
+43. Polish
+45. Lingala
+
+*numbers on this list correspond to those on [this other list](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers).*

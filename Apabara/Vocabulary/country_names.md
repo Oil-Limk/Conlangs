@@ -31,7 +31,7 @@ e.g. xiley -> xiley*xe* or xiley*xi*
 | Hungary     | *Mayarorsagi* |
 | Japón       | *Nipon*       |
 | Kenya       | *Kenya*       |
-| México      | *Meziko*      |
+| México      | *Mexiko*      |
 | North Korea | *Pukani*      |
 | New Zealand | *Niusiland*   |
 | Palestine   | *Pilastini*   |
