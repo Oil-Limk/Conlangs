@@ -8,6 +8,8 @@ Suffix *ste* for ordinal.
 
 Easiest to implement and get used to.
 
-## Base 6
+## Names from 0 to 9
 
-Goddess of all bases, but lacks familiarity.
+## Names for powers of 10
+
+## Composing Bigger Numbers
