@@ -4,9 +4,9 @@
 
 | **category** |               **phonemes**               |
 |:------------:|:----------------------------------------:|
-|       C      | p, b, r, t, d, s, k, g, l, m, n, x, w, y |
+|       C      | p, b, r, t, d, s, k, g, x, m, n, l, w, y |
 |       V      |               a, e, i, o, u              |
-|       N      |             r, s, l, m, n, y             |
+|       N      |             r, s, m, n, l, y             |
 
 ## Basic Structure
 
