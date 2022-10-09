@@ -6,9 +6,9 @@ Same as toki pona's approach.
 
 ## Demonyms
 
-Created by suffixing with *"xe"* (or *"xi"*).
+Created by suffixing with *-xen*.
 
-e.g. xiley -> xiley*xe* or xiley*xi*
+e.g. Xile -> Xilexen
 
 ## List of Suggested Names
 
