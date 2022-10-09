@@ -22,12 +22,30 @@
 1. the pronunciation of *g* may be vary to /x/ or /h/ to improve distiction from *k*.
 
 ### Vowels
-
-| <td colspan=1 align='center'><b>front</b> <td colspan=1 align='center'><b>middle</b></td> <td colspan=1 align='center'><b>back</b></td>
-|:-------------:|:---------:|:----------:|:--------:
-| **close**     | i         |            | u        
-| **mid-close** | e         |            | o        
-| **open**       <td colspan=3 align='center'>a
+<table>
+  <tr>
+    <td></td>
+    <td><b>front</b></td>
+    <td align='center'><b>middle</b></td>
+    <td align='center'><b>back</b></td>
+  </tr>
+  <tr>
+    <td><b>close</b></td>
+    <td>i</td>
+    <td></td>
+    <td>u</td>
+  </tr>
+  <tr>
+    <td><b>mid-close</b></td>
+    <td>e</td>
+    <td></td>
+    <td>o</td>
+  </tr>
+  <tr>
+    <td><b>open</b></td>
+    <td colspan="3">a</td>
+  </tr>
+</table>
 
 |               | **front** | **middle** | **back** |
 |:-------------:|:---------:|:----------:|:--------:|
