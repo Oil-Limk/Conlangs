@@ -13,7 +13,7 @@
 | **approximant** |      w     |              |                  |    y /j/    |           |
 |    **rhotic**   |            |     r /ɾ/    |                  |             |           |
 
-###### *Notes:*
+##### *Notes:*
 
 1. the pronunciation of *w* may vary from /w/ to /ʋ/ or /v/.
 1. the pronunciation of *x* may vary from /t͡ʃ/ to /ʃ/, /dʒ/ or /ʒ/.
@@ -47,12 +47,6 @@
     <td colspan="3" align='center'>a</td>
   </tr>
 </table>
-
-|               | **front** | **middle** | **back** |
-|:-------------:|:---------:|:----------:|:--------:|
-|   **close**   |     i     |            |     u    |
-| **close-mid** |     e     |            |     o    |
-|    **open**   |     a     |      a     |     a    |
 
 ### Alphabetical Order
 
