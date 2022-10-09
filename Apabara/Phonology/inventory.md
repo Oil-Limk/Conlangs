@@ -25,6 +25,12 @@
 
 |               | **front** | **middle** | **back** |
 |:-------------:|:---------:|:----------:|:--------:|
+| **close**     | i         |            | u        |
+| **mid-close** | e         |            | o        |
+| **open**       <td colspan=3 align='center'>a</td>
+
+|               | **front** | **middle** | **back** |
+|:-------------:|:---------:|:----------:|:--------:|
 |   **close**   |     i     |            |     u    |
 | **close-mid** |     e     |            |     o    |
 |    **open**   |     a     |      a     |     a    |
