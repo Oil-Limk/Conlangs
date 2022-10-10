@@ -6,7 +6,7 @@
 
 ## Question Words Table
 
-*(inglis table/esperanto's logic)*
+*(esperanto's logic in correlatives table)*
 
 |            |            |            |            |            |            |            |            |            |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
