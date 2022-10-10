@@ -175,3 +175,6 @@
 </td>
 <td>neniu<br>(no one; <br>no&nbsp;[horse])
 </td></tr></tbody></table>
+
+
+*-ajn* for any, *xi* for proximity and *for* for distance.
