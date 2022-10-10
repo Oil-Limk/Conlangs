@@ -1,13 +1,13 @@
 # Apabara's Grammatic Structure
 
-## Basic Sentence (B<sub>s</sub>)
+## Basic Sentence (Bs)
 
 * \[subject\] (li \[verb\] (e \[object\]))
 
-## Context Sentence (C<sub>s</sub>)
+## Context Sentence (Cs)
 
-* (C<sub>s</sub>,) (correlative) \[B<sub>s</sub>\] la
+* (Cs,) (correlative) \[Bs\] la
 
 ## Complete Sentence
 
-* (C<sub>s</sub>,) B<sub>s</sub>.
+* (Cs,) Bs.
