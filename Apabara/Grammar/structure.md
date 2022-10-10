@@ -1,13 +1,25 @@
 # Apabara's Grammatic Structure
 
-## Basic Sentence (Bs)
+## Nouns
+
+pi, otro pi, y, o
+
+word order
+
+## Sentences
+
+### Basic Sentence (Bs)
 
 * \[subject\] (li \[verb\] (e \[object\]))
 
-## Context Sentence (Cs)
+### Context Sentence (Cs)
 
 * (Cs,) (correlative) \[Bs\] la
 
-## Complete Sentence
+### Complete Sentence
 
 * (Cs,) Bs.
+
+## Questions
+
+seme?
