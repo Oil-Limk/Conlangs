@@ -2,7 +2,13 @@
 
 ## Nouns
 
-pi, otro pi, y, o
+need to define speech parts.
+
+differences, if they even have.
+
+pi y el otro pi (are this necesary?) overcomplicated
+
+y, o
 
 word order
 
