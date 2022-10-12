@@ -1,5 +1,5 @@
 <html>
-<label>
+<label> Hola
   <input value="hola">
 </label>
 </html>
