@@ -37,8 +37,8 @@ regular endings. no object marker, svo order does it for you.
   </tr>
   <tr>
     <th>1P</th>
-    <td>mi</td>
-    <td>ni</td>
+    <td align="center">mi</td>
+    <td align="center">ni</td>
   </tr>
   <tr>
     <th>2P</th>
