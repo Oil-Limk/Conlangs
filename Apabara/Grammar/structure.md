@@ -31,22 +31,22 @@ regular endings. no object marker, svo order does it for you.
 
 <table>
   <tr>
-    <th><th>
-    <th>SG<th>
-    <th>PL<th>
+    <th></th>
+    <th>SG</th>
+    <th>PL</th>
   </tr>
   <tr>
-    <th>1P<th>
-    <td>mi<td>
-    <td>ni<td>
+    <th>1P</th>
+    <td>mi</td>
+    <td>ni</td>
   </tr>
   <tr>
-    <th>2P<th>
-    <td colspan="2">vi<td>
+    <th>2P</th>
+    <td colspan="2">vi</td>
   </tr>
   <tr>
-    <th>3P<th>
-    <td colspan="2">li<td>
+    <th>3P<(th>
+    <td colspan="2">li</td>
   </tr>
 </table>
 
