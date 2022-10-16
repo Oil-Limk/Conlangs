@@ -42,11 +42,11 @@ regular endings. no object marker, svo order does it for you.
   </tr>
   <tr>
     <th>2P</th>
-    <td colspan="2">vi</td>
+    <td colspan="2" align="center">vi</td>
   </tr>
   <tr>
-    <th>3P<(th>
-    <td colspan="2">li</td>
+    <th>3P</th>
+    <td colspan="2" align="center">li</td>
   </tr>
 </table>
 
