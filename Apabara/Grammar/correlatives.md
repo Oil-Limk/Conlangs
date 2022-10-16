@@ -35,11 +35,11 @@
     <tr>
       <th>Quality</th>
       <th>–a</th>
-      <td align='center'>kia<br>(what kind/sort/type of)</td>
+      <td align='center'>kia<br>(what kind/type of)</td>
       <td align='center'>tia<br>(such a)</td>
-      <td align='center'>ia<br>(some kind/sort/type of)</td>
-      <td align='center'>ĉia<br>(every kind/sort/type of)</td>
-      <td align='center'>nenia<br>(no kind/sort/type of)</td>
+      <td align='center'>ia<br>(some kind/type of)</td>
+      <td align='center'>ĉia<br>(every kind/type of)</td>
+      <td align='center'>nenia<br>(no kind/type of)</td>
     </tr>
     <tr>
       <th>Reason</th>

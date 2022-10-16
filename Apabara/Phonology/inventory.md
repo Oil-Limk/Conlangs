@@ -33,6 +33,68 @@
 
 ### Consonants
 
+<table>
+  <tbody>
+    <tr>
+      <th colspan="2"></th>
+      <th>labial</th>
+      <th>alveolar</th>
+      <th>post-alveolar</th>
+      <th>palatal</th>
+      <th>velar</th>
+    </tr>
+    <tr>
+      <th colspan="2">nasal</th>
+      <td align='center'>m</td>
+      <td align='center'>n</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2">stop</th>
+      <th>voiceless</th>
+      <td align='center'>p</td>
+      <td align='center'>t</td>
+      <td align='center'>x /t͡ʃ/</td>
+      <td></td>
+      <td align='center'>k</td>
+    </tr>
+    <tr>
+      <th>voiced</th>
+      <td align='center'>b</td>
+      <td align='center'>d</td>
+      <td></td>
+      <td></td>
+      <td align='center'>g</td>
+    </tr>
+    <tr>
+      <th colspan="2">nasal</th>
+      <td></td>
+      <td align='center'>s</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th colspan="2">nasal</th>
+      <td align='center'>w</td>
+      <td align='center'>l</td>
+      <td></td>
+      <td align='center'>y /j/</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th colspan="2">nasal</th>
+      <td></td>
+      <td align='center'>r /ɾ/</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 |                 | **labial** | **alveolar** | **post-aveolar** | **palatal** | **velar** |
 |:---------------:|:----------:|:------------:|:----------------:|:-----------:|:---------:|
 |    **nasal**    |      m     |       n      |                  |             |           |
