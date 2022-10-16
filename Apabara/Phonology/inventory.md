@@ -69,7 +69,7 @@
       <td align='center'>g</td>
     </tr>
     <tr>
-      <th colspan="2">nasal</th>
+      <th colspan="2">fricative</th>
       <td></td>
       <td align='center'>s</td>
       <td></td>
@@ -77,7 +77,7 @@
       <td></td>
     </tr>
     <tr>
-      <th colspan="2">nasal</th>
+      <th colspan="2">approximant</th>
       <td align='center'>w</td>
       <td align='center'>l</td>
       <td></td>
@@ -85,7 +85,7 @@
       <td></td>
     </tr>
     <tr>
-      <th colspan="2">nasal</th>
+      <th colspan="2">rhotic</th>
       <td></td>
       <td align='center'>r /ɾ/</td>
       <td></td>
