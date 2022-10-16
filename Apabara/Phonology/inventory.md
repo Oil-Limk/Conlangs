@@ -95,15 +95,6 @@
   </tbody>
 </table>
 
-|                 | **labial** | **alveolar** | **post-aveolar** | **palatal** | **velar** |
-|:---------------:|:----------:|:------------:|:----------------:|:-----------:|:---------:|
-|    **nasal**    |      m     |       n      |                  |             |           |
-|    **stop**     |      p     |       t      |      x /t͡ʃ/      |             |     k     |
-|    **stop**     |      b     |       d      |                  |             |     g     |
-|  **fricative**  |            |       s      |                  |             |           |
-| **approximant** |      w     |       l      |                  |    y /j/    |           |
-|    **rhotic**   |            |     r /ɾ/    |                  |             |           |
-
 ##### *Notes:*
 
 1. the pronunciation of *w* may vary from /w/ to /ʋ/ or /v/.

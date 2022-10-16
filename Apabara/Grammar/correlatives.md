@@ -2,20 +2,7 @@
 
 *(esperanto's logic in correlatives table)*
 
-|            |            |            |            |            |            |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-|            |            |            |            |            |            |
-
-
-<table class="wikitable" style="text-align:center">
+<table>
   <tbody>
     <tr>
       <th colspan="2" rowspan="2"></th>
