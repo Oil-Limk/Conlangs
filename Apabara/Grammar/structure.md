@@ -30,7 +30,24 @@ regular endings. no object marker, svo order does it for you.
 #### Pronouns
 
 <table style="text-align:center">
-  
+  <tr>
+    <th><th>
+    <th>SG<th>
+    <th>PL<th>
+  </tr>
+  <tr>
+    <th>1P<th>
+    <th>mi<th>
+    <th>ni<th>
+  </tr>
+  <tr>
+    <th>2P<th>
+    <th colspan="2">vi<th>
+  </tr>
+  <tr>
+    <th>3P<th>
+    <th colspan="2">li<th>
+  </tr>
 </table>
 
 ### Adjetives
