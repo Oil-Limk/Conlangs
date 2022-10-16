@@ -5,28 +5,30 @@
 ### Vowels
 
 <table>
-  <tr>
-    <td></td>
-    <td><b>front</b></td>
-    <td><b>middle</b></td>
-    <td><b>back</b></td>
-  </tr>
-  <tr>
-    <td align='center'><b>close</b></td>
-    <td align='center'>i</td>
-    <td></td>
-    <td align='center'>u</td>
-  </tr>
-  <tr>
-    <td align='center'><b>mid-close</b></td>
-    <td align='center'>e</td>
-    <td></td>
-    <td align='center'>o</td>
-  </tr>
-  <tr>
-    <td align='center'><b>open</b></td>
-    <td colspan="3" align='center'>a</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th></th>
+      <th>front</th>
+      <th>middle</th>
+      <th>back</th>
+    </tr>
+    <tr>
+      <th align='center'>close</th>
+      <td align='center'>i</td>
+      <td></td>
+      <td align='center'>u</td>
+    </tr>
+    <tr>
+      <th align='center'>mid-close</th>
+      <td align='center'>e</td>
+      <td></td>
+      <td align='center'>o</td>
+    </tr>
+    <tr>
+      <th align='center'>open</th>
+      <td colspan="3" align='center'>a</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Consonants

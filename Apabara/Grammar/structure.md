@@ -1,31 +1,64 @@
 # Apabara's Grammatic Structure
 
-## Nouns
+## Words
+
+### Speech Parts
 
 need to define speech parts.
 
-differences, if they even have.
+differences they'll have. 
 
-pi y el otro pi (are this necesary?) overcomplicated
+nouns/adjectives/verbs/adverbs endings
 
-y, o
+### Verbs
 
-word order
+regular with two temporal preffixes:
+
+* *"ge"* for past tense
+* *"wil"* for future
+
+e.g. gexi, xi, wilxi (ate, eat, will eat)
+
+*porabili wil xeinx in de puxur*
+
+### Adverbs
+
+### Nouns
+
+regular endings. no object marker, svo order does it for you.
+
+#### Pronouns
+
+<table style="text-align:center">
+  
+</table>
+
+### Adjetives
+
+### Prepositions
+
+* of/pi/de/no: ... de (...)
+e.g. la avo **de** la filino **de** la plej bona amiko **de** mia fratino
+
+### Conjunctions
+
+* y
+* o
 
 ## Sentences
 
-### Basic Sentence (Bs)
+### Basic Sentence (Bs) SVO
 
-* \[subject\] (li \[verb\] (e \[object\]))
+* \[NounPhrase (subject)\] (\[VerbPhrase\] (\[NounPhrase (object)\]))
 
-### Context Sentence (Cs)
+### Context Sentence with la (Csl)
 
-* (Cs,) (correlative) \[Bs\] la
+* (\[Cs\],) (\[correlative\]) \[Bs\] la
+
+### Context Sentence with la (Csl)
+
+* \[Bs\] (, (\[correlative\]) \[Cs\])
 
 ### Complete Sentence
 
 * (Cs,) Bs.
-
-## Questions
-
-seme?
