@@ -27,7 +27,7 @@ e.g. gexi, xi, wilxi (ate, eat, will eat)
 
 regular endings. no object marker, svo order does it for you.
 
-#### Pronouns
+#### Personal Pronouns
 
 <table>
   <tr>
@@ -42,11 +42,11 @@ regular endings. no object marker, svo order does it for you.
   </tr>
   <tr>
     <th>2P</th>
-    <td colspan="2" align="center">vi</td>
+    <td colspan="2" align="center">sina</td>
   </tr>
   <tr>
     <th>3P</th>
-    <td colspan="2" align="center">li</td>
+    <td colspan="2" align="center">lina</td>
   </tr>
 </table>
 
