@@ -29,7 +29,7 @@ regular endings. no object marker, svo order does it for you.
 
 #### Pronouns
 
-<table style="text-align:center">
+<table>
   <tr>
     <th><th>
     <th>SG<th>
@@ -37,16 +37,16 @@ regular endings. no object marker, svo order does it for you.
   </tr>
   <tr>
     <th>1P<th>
-    <th>mi<th>
-    <th>ni<th>
+    <td>mi<td>
+    <td>ni<td>
   </tr>
   <tr>
     <th>2P<th>
-    <th colspan="2">vi<th>
+    <td colspan="2">vi<td>
   </tr>
   <tr>
     <th>3P<th>
-    <th colspan="2">li<th>
+    <td colspan="2">li<td>
   </tr>
 </table>
 
