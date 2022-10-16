@@ -13,19 +13,19 @@
       <th>back</th>
     </tr>
     <tr>
-      <th align='center'>close</th>
+      <th>close</th>
       <td align='center'>i</td>
       <td></td>
       <td align='center'>u</td>
     </tr>
     <tr>
-      <th align='center'>mid-close</th>
+      <th>mid-close</th>
       <td align='center'>e</td>
       <td></td>
       <td align='center'>o</td>
     </tr>
     <tr>
-      <th align='center'>open</th>
+      <th>open</th>
       <td colspan="3" align='center'>a</td>
     </tr>
   </tbody>

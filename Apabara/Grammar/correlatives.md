@@ -35,83 +35,83 @@
     <tr>
       <th>Quality</th>
       <th>–a</th>
-      <td>kia<br>(what kind/sort/type of)</td>
-      <td>tia<br>(such a)</td>
-      <td>ia<br>(some kind/sort/type of)</td>
-      <td>ĉia<br>(every kind/sort/type of)</td>
-      <td>nenia<br>(no kind/sort/type of)</td>
+      <td align='center'>kia<br>(what kind/sort/type of)</td>
+      <td align='center'>tia<br>(such a)</td>
+      <td align='center'>ia<br>(some kind/sort/type of)</td>
+      <td align='center'>ĉia<br>(every kind/sort/type of)</td>
+      <td align='center'>nenia<br>(no kind/sort/type of)</td>
     </tr>
     <tr>
       <th>Reason</th>
       <th>–al</th>
-      <td>kial<br>(why)</td>
-      <td>tial<br>(for that reason, <br>therefore)</td>
-      <td>ial<br>(for some reason)</td>
-      <td>ĉial<br>(for all reasons)</td>
-      <td>nenial<br>(for no reason)</td>
+      <td align='center'>kial<br>(why)</td>
+      <td align='center'>tial<br>(for that reason, <br>therefore)</td>
+      <td align='center'>ial<br>(for some reason)</td>
+      <td align='center'>ĉial<br>(for all reasons)</td>
+      <td align='center'>nenial<br>(for no reason)</td>
     </tr>
     <tr>
       <th>Time</th>
       <th>–am</th>
-      <td>kiam<br>(when)</td>
-      <td>tiam<br>(then)</td>
-      <td>iam<br>(sometime)</td>
-      <td>ĉiam<br>(always)</td>
-      <td>neniam<br>(never)</td>
+      <td align='center'>kiam<br>(when)</td>
+      <td align='center'>tiam<br>(then)</td>
+      <td align='center'>iam<br>(sometime)</td>
+      <td align='center'>ĉiam<br>(always)</td>
+      <td align='center'>neniam<br>(never)</td>
     </tr>
     <tr>
       <th>Place</th>
       <th>–e</th>
-      <td>kie<br>(where)</td>
-      <td>tie<br>(there)</td>
-      <td>ie<br>(somewhere)</td>
-      <td>ĉie<br>(everywhere)</td>
-      <td>nenie<br>(nowhere)</td>
+      <td align='center'>kie<br>(where)</td>
+      <td align='center'>tie<br>(there)</td>
+      <td align='center'>ie<br>(somewhere)</td>
+      <td align='center'>ĉie<br>(everywhere)</td>
+      <td align='center'>nenie<br>(nowhere)</td>
     </tr>
     <tr>
       <th>Manner</th>
       <th>–el</th>
-      <td>kiel<br>(how, as)</td>
-      <td>tiel<br>(thus, as)</td>
-      <td>iel<br>(somehow)</td>
-      <td>ĉiel<br>(in every way)</td>
-      <td>neniel<br>(no-how, in&nbsp;no&nbsp;way)</td>
+      <td align='center'>kiel<br>(how, as)</td>
+      <td align='center'>tiel<br>(thus, as)</td>
+      <td align='center'>iel<br>(somehow)</td>
+      <td align='center'>ĉiel<br>(in every way)</td>
+      <td align='center'>neniel<br>(no-how, in&nbsp;no&nbsp;way)</td>
     </tr>
     <tr>
       <th>Association</th>
       <th>–es</th>
-      <td>kies<br>(whose)</td>
-      <td>ties<br>(this/that one's)</td>
-      <td>ies<br>(someone's)</td>
-      <td>ĉies<br>(everyone's)</td>
-      <td>nenies<br>(no one's)</td>
+      <td align='center'>kies<br>(whose)</td>
+      <td align='center'>ties<br>(this/that one's)</td>
+      <td align='center'>ies<br>(someone's)</td>
+      <td align='center'>ĉies<br>(everyone's)</td>
+      <td align='center'>nenies<br>(no one's)</td>
     </tr>
     <tr>
       <th>Thing</th>
       <th>–o</th>
-      <td>kio<br>(what)</td>
-      <td>tio<br>(this/that)</td>
-      <td>io<br>(something)</td>
-      <td>ĉio<br>(everything)</td>
-      <td>nenio<br>(nothing)</td>
+      <td align='center'>kio<br>(what)</td>
+      <td align='center'>tio<br>(this/that)</td>
+      <td align='center'>io<br>(something)</td>
+      <td align='center'>ĉio<br>(everything)</td>
+      <td align='center'>nenio<br>(nothing)</td>
     </tr>
     <tr>
       <th>Amount</th>
       <th>–om</th>
-      <td>kiom<br>(how much)</td>
-      <td>tiom<br>(that much)</td>
-      <td>iom<br>(some, a&nbsp;bit)</td>
-      <td>ĉiom<br>(all of it)</td>
-      <td>neniom<br>(none)</td>
+      <td align='center'>kiom<br>(how much)</td>
+      <td align='center'>tiom<br>(that much)</td>
+      <td align='center'>iom<br>(some, a&nbsp;bit)</td>
+      <td align='center'>ĉiom<br>(all of it)</td>
+      <td align='center'>neniom<br>(none)</td>
     </tr>
     <tr>
       <th>Individual</th>
       <th>–u</th>
-      <td>kiu<br>(who, which one; <br>which&nbsp;[horse])</td>
-      <td>tiu<br>(that one; <br>that&nbsp;[horse])</td>
-      <td>iu<br>(someone; <br>some&nbsp;[horse])</td>
-      <td>ĉiu<br>(everyone; <br>each&nbsp;[horse], all&nbsp;[horses])</td>
-      <td>neniu<br>(no one; <br>no&nbsp;[horse])</td>
+      <td align='center'>kiu<br>(who, which one; <br>which&nbsp;[horse])</td>
+      <td align='center'>tiu<br>(that one; <br>that&nbsp;[horse])</td>
+      <td align='center'>iu<br>(someone; <br>some&nbsp;[horse])</td>
+      <td align='center'>ĉiu<br>(everyone; <br>each&nbsp;[horse], all&nbsp;[horses])</td>
+      <td align='center'>neniu<br>(no one; <br>no&nbsp;[horse])</td>
     </tr>
   </tbody>
 </table>
