@@ -1,4 +1,4 @@
-# Apabara's Phonetactics
+# Apabara's Phonotactics
 
 ## Categories
 
