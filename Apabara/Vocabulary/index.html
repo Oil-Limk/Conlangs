@@ -1,6 +1,13 @@
-<html>
-  <body>
-    <h1>Apabara's Vocabulary</h1>
+{% extends "template.html" %}
+
+<!-- Title page -->
+{% block title %}
+Apabara&apos;s Vocabulary
+{% endblock %}
+
+<!-- Content Page -->
+{% block content %}
+    <h1>Apabara&apos;s Vocabulary</h1>
     <p>
       Description.
     </p>
@@ -11,9 +18,8 @@
       <h2>
         <a href="content/number_system.md">Number System</a>
       </h2>
-      <h2>
-        <a href="..">Back</a>
-      </h2>
     </div>
-  </body>
-</html>
+    <h3>
+      <a href="..">Go Back</a>
+    </h3>
+{% endblock %}
