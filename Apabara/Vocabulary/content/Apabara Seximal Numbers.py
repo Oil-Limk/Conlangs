@@ -2,11 +2,11 @@ import random
 
 rada = {
   0:"so",
-  1:"na",
+  1:"un",
   2:"du",
-  3:"tre",
-  4:"ka",
-  5:"go"
+  3:"san",
+  4:"xar",
+  5:"kin"
 }
 
 kwada = {
@@ -25,7 +25,7 @@ kwada = {
 
 kijeda = {
   "numeral":"",
-  "ordinal":"ste",
+  "ordinal":"a",
 }
 
 def cambioBase(num10, base):

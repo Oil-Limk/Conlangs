@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      .tg  {border-collapse:collapse;border-spacing:0;}
+      .tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        overflow:hidden;padding:10px 10px;word-break:normal;}
+      .tg th{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+        font-weight:normal;overflow:hidden;padding:10px 10px;word-break:normal;}
+      .tg .tg-a7tj{background-color:#303030;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+        font-weight:bold;text-align:center;vertical-align:top}
+      .tg .tg-et2z{background-color:#5a5a5a;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+        font-weight:bold;text-align:center;vertical-align:top}
+      .tg .tg-ecfv{background-color:#1F1F1F;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+        text-align:center;vertical-align:top}
+    </style>
+    <title>
+      Apabara's Phonotactics
+    </title>
+  </head>
+  <body>
+    <h1>Apabara's Phonotactics</h1>
+    <p>
+      Description.
+    </p>
+    <h2>Categories</h2>
+    <table class="tg">
+      <thead>
+        <tr>
+          <th class="tg-a7tj">category</th>
+          <th class="tg-a7tj">phonemes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tg-ecfv">C</td>
+          <td class="tg-ecfv">p, b, r, t, d, s, k, g, x, m, n, l, w, y</td>
+        </tr>
+        <tr>
+          <td class="tg-ecfv">V</td>
+          <td class="tg-ecfv">a, e, i, o, u</td>
+        </tr>
+        <tr>
+          <td class="tg-ecfv">N</td>
+          <td class="tg-ecfv">r, s, m, n, l, y</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Basic Structure</h2>
+    <table class="tg">
+      <thead>
+        <tr>
+          <th class="tg-a7tj">onset</th>
+          <th class="tg-a7tj">nucleus</th>
+          <th class="tg-a7tj">coda</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tg-ecfv">(C)</td>
+          <td class="tg-ecfv">V</td>
+          <td class="tg-ecfv">(N)</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Open-Syllable Tendency</h2>
+    <p>
+      Apabara tends towards open syllables.
+      To correctly separate syllables in Apabara, we only need to follow two simple steps:
+    </p>
+    <ol>
+      <li>
+        If there are 2 consonants or 2 vowels together, we make them a syllable separation.
+        <ul>
+          <li><b>Apabara:</b> Apabara</li>
+          <li><b>Urwanda:</b> Ur|wan|da</li>
+          <li><b>Salbador:</b> Sal|bador</li>
+          <li><b>Osteraria:</b> Os|terari|a</li>
+          <li><b>Kolombia:</b> Kolom|bi|a</li>
+          <li><b>Uruway:</b> Uruway</li>
+          <li><b>Ana:</b> Ana</li>
+        </ul>
+      </li>
+      <li>
+        If there are still more than 2 vowels without a syllable separation,
+        we make the first vowel-consonant cluster, from left to right, a syllable separation.
+        We'll repeat this step until there are no more than 2 vowels without a syllable separation.
+        <ul>
+          <li><b>Apabara:</b> A|pabara -> A|pa|bara -> A|pa|ba|ra</li>
+          <li><b>Urwanda:</b> Ur|wan|da</li>
+          <li><b>Salbador:</b> Sal|bador</li>
+          <li><b>Osteraria:</b> Os|te|rari|a -> Os|te|ra|ri|a</li>
+          <li><b>Kolombia:</b> Ko|lom|bi|a</li>
+          <li><b>Uruway:</b> U|ruway -> U|ru|way</li>
+          <li><b>Ana:</b> A|na</li>
+        </ul>
+      </li>
+    </ol>
+    <h2>Syllabic Exceptions</h2>
+    <p>
+      Any syllable containing "wu", "yi" or "iy" clusters does not belong to Apabara.
+    </p>
+    <h3>Total Amount of Possible Syllables</h3>
+    <p>
+      With this restrains, Apabara has 551 posible syllables.
+    </p>
+    <h3>Illegal Cross-Syllable Clusters</h3>
+    <ul>
+      <li><b>after r:</b> rr, rl</li>
+      <li><b>after s:</b> ss, sx</li>
+      <li><b>after m:</b> mr, mt, md, mk, mg, mx, mm, mn, ml, mw, my</li>
+      <li><b>after n:</b> np, nb, nm, nn</li>
+      <li><b>after l:</b> lr, ll</li>
+      <li><b>after y:</b> yy</li>
+    </ul>
+  </body>
+</html>
