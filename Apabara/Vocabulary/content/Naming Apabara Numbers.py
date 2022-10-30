@@ -6,7 +6,7 @@ unes = {
   3:"san",
   4:"xar",
   5:"kin",
-  6:"sis",
+  6:"xes",
   7:"sep",
   8:"ba",
   9:"nin"
