@@ -5,4 +5,4 @@
 This is my repository for my conlangs.
 
 CheckList (?):
-- [ ] A
+- [x] A
