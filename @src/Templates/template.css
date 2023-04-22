@@ -10,8 +10,8 @@
 h2,h3,h4,h5,h6 {
     text-decoration: underline;
   }
-a.button {
-    color: #eeeeee;
-    background-color: #0F0F0F;
-  }
-
+a.btn {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
