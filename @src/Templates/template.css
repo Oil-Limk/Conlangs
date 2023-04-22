@@ -13,4 +13,25 @@ h2,h3,h4,h5,h6 {
 a.btn {
     color: #eeeeee;
     background-color: #0F0F0F;
+    text-decoration: none;
+  }
+a.nor:link {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a.nor:visited {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a.nor:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a.nor:active {
+    color: violet;
+    background-color: transparent;
+    text-decoration: none;
   }
