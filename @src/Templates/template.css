@@ -14,22 +14,22 @@ a.button {
   color: #eeeeee;
   background-color: #0F0F0F;
 }
-a:link {
+a.normal:link {
     color: lightblue;
     background-color: transparent;
     text-decoration: none;
   }
-a:visited {
+a.normal:visited {
     color: lightblue;
     background-color: transparent;
     text-decoration: none;
   }
-a:hover {
+a.normal:hover {
     color: red;
     background-color: transparent;
     text-decoration: none;
   }
-a:active {
+a.normal:active {
     color: violet;
     background-color: transparent;
     text-decoration: none;
