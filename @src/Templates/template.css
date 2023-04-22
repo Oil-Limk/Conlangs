@@ -51,21 +51,20 @@ body {
   font-size: 16px;
 }
 a.btn {
-  color: #eeeeee;
   background-color: #0F0F0F;
+  display: inline-block;
+  color: #eeeeee;
+  font-size: 30px;
+  text-align: center;
   text-decoration: none;
+  font-weight: bold;
+  padding: 12px 22px;
+  border-radius: 13px;
+}
+a.btn:hover, a.btn:active {
+  background-color: #3F3F3F;
 }
 a.nor {
-  color: lightblue;
-  background-color: transparent;
-  text-decoration: none;
-}
-a.nor:link {
-  color: lightblue;
-  background-color: transparent;
-  text-decoration: none;
-}
-a.nor:visited {
   color: lightblue;
   background-color: transparent;
   text-decoration: none;
