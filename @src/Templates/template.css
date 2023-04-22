@@ -11,26 +11,7 @@ h2,h3,h4,h5,h6 {
     text-decoration: underline;
   }
 a.button {
-  color: #eeeeee;
-  background-color: #0F0F0F;
-}
-a.normal:link {
-    color: lightblue;
-    background-color: transparent;
-    text-decoration: none;
+    color: #eeeeee;
+    background-color: #0F0F0F;
   }
-a.normal:visited {
-    color: lightblue;
-    background-color: transparent;
-    text-decoration: none;
-  }
-a.normal:hover {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-  }
-a.normal:active {
-    color: violet;
-    background-color: transparent;
-    text-decoration: none;
-  }
+
