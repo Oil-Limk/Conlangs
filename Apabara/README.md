@@ -1,3 +1,0 @@
-# Apabara
-
-AuxConLang Project
