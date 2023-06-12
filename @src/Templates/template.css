@@ -30,14 +30,26 @@ table, td {
   padding: 10px 10px;
   word-break: normal;
 }
+.tg .tg-title{
+  background-color: #eeeeee;
+  border-color: #eeeeee;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 18px;
+  color: #1F1F1F;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+  vertical-align: middle;
+}
 .tg .tg-head{
-  background-color: #303030;
+  background-color: #1F1F1F;
   border-color: inherit;
   font-family: Arial, Helvetica, sans-serif !important;
   font-size: 16px;
   font-weight: bold;
   text-align: center;
   vertical-align: top;
+  vertical-align: middle;
 }
 .tg .tg-cell{
   background-color: #1F1F1F;
@@ -46,6 +58,7 @@ table, td {
   font-size: 16px;
   text-align: center;
   vertical-align: top;
+  vertical-align: middle;
 }
 h2,h3,h4,h5,h6 {
   text-decoration: underline;
