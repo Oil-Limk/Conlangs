@@ -13,8 +13,11 @@ This is my repository for my [conlangs](https://oil-limk.github.io/Conlangs)!.
   - [x] Update Exwe Inventory and Phonotactics
   - [x] Implement new table format
   - [x] Update table format of all languages
-  - [ ] Clean file links
-  - [ ] Clean files writing
+  - [ ] Fix Go-Back links (Apabara)
+  - [ ] Fix colspan in Apabara's "Alphabetical Order" Table
+  - [ ] Refactor directories
+  - [ ] Clean/fix file links
+  - [ ] Clean/correct files
   - [ ] Update Kimean
   - [ ] Update Dooknan
   - [ ] Update Atusa
