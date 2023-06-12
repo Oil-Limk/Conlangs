@@ -15,17 +15,12 @@ This is my repository for my [conlangs](https://oil-limk.github.io/Conlangs)!.
   - [x] Update table format of all languages
   - [x] Fix Go-Back links (Apabara)
   - [x] Fix colspan in Apabara's "Alphabetical Order" Table
-  - [ ] Refactor directories:
-    - [ ] Apabara:
-      - [ ] Grammar
-      - [ ] Phonology
-      - [ ] Principles
-      - [ ] Vocabulary
-    - [ ] Atusan Phonology
-    - [ ] Exwe Phonology
-    - [ ] Kimean Phonology
+  - [x] Refactor directories
   - [ ] Clean/fix file links
   - [ ] Clean/correct files
+  - [ ] Check all of Conlangs
+  - [ ] Add Melodic Atusa (linked from Atusa)
+  - [ ] Add Melodic Atu (linked from Atu)
   - [ ] Update Kimean
   - [ ] Update Dooknan
   - [ ] Update Atusa
