@@ -60,8 +60,8 @@ table, td {
   vertical-align: top;
   vertical-align: middle;
 }
-h2,h3,h4,h5,h6 {
-  text-decoration: underline;
+h1 {
+  text-align: center;
 }
 body {
   background-color: #1F1F1F;
@@ -74,7 +74,7 @@ body {
   font-family: "Kimean";
   font-size: 1.3em;
 }
-img.lang_pfp {
+img.rounded {
   text-align: center;
   width: 270px;
   margin: 25px 25px 5px;
