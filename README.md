@@ -16,7 +16,7 @@ This is my repository for my [conlangs](https://oil-limk.github.io/Conlangs)!.
   - [x] Fix Go-Back links (Apabara)
   - [x] Fix colspan in Apabara's "Alphabetical Order" Table
   - [x] Refactor directories
-  - [ ] Clean/fix file links
+  - [x] Clean/fix file links
   - [ ] Clean/correct files
   - [ ] Check all of Conlangs
   - [ ] Add Melodic Atusa (linked from Atusa)
