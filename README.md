@@ -24,6 +24,7 @@ This is my repository for my [conlangs](https://oil-limk.github.io/Conlangs)!.
   - [ ] Update Kimean
   - [ ] Update Dooknan
   - [ ] Update Atusa
+  - [x] Implement Atusan Script
   - [ ] Update Apabara
   - [ ] Update Javol (kijavol)
   - [ ] Update GACS
