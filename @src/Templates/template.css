@@ -2,6 +2,10 @@
   font-family: "Kimean";
   src: url("../Fonts/KimeanFont.ttf") format("truetype");
 }
+@font-face {
+  font-family: "Atusan";
+  src: url("../Fonts/AtusanFont.ttf") format("truetype");
+}
 table, td {
   text-align: center;
 }
@@ -70,6 +74,9 @@ body {
 .kimean {
   font-family: "Kimean";
   font-size: 1.3em;
+}
+.atusan {
+  font-family: "Atusan";
 }
 img.rounded {
   text-align: center;
