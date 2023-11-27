@@ -1,0 +1,8 @@
+# PowerPoint file
+*.ppt
+
+# Edition folder
+@src/Img/Edition/
+
+# Josh R image
+@src/Img/JoshR.PNG
