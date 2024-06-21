@@ -1,10 +1,10 @@
 @font-face {
   font-family: "Kimean";
-  src: url("../Fonts/KimeanFont.ttf") format("truetype");
+  src: url("../fonts/kimean-font.ttf") format("truetype");
 }
 @font-face {
   font-family: "Atusan";
-  src: url("../Fonts/AtusanFont.ttf") format("truetype");
+  src: url("../fonts/atusan-font.ttf") format("truetype");
 }
 table, td {
   text-align: center;
