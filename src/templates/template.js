@@ -1,4 +1,4 @@
-change_to_default = () => {
+const change_to_default = () => {
     this.src = "https://oil-limk.github.io/Conlangs/src/img/flags.png";
     this.onerror = "";
 }
