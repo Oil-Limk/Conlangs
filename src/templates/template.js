@@ -3,7 +3,7 @@ change_to_default = () => {
     this.onerror = "";
 }
 
-let imgs = Document.getElementsByTagName('img');
+const imgs = Document.getElementsByTagName("img");
 
 for(let i=0;i<imgs.length;i++){
     imgs[i].onerror = change_to_default;
