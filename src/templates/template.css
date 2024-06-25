@@ -6,6 +6,9 @@
   font-family: "Atusan";
   src: url("../fonts/atusan-font.ttf") format("truetype");
 }
+h1, h2 {
+	border-bottom: 1px solid #a2a9b1;
+}
 table, td {
   text-align: center;
 }
