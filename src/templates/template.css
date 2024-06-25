@@ -84,6 +84,16 @@ img.rounded {
   margin: 25px 25px 5px;
   border-radius: 12px;
 }
+
+img:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background-image: url(src/img/flags.png);
+}
+
 a.btn {
   background-color: #0F0F0F;
   display: inline-block;
