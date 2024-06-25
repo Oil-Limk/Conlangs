@@ -7,7 +7,7 @@
   src: url("../fonts/atusan-font.ttf") format("truetype");
 }
 h1, h2 {
-	border-bottom: 1px solid #a2a9b1;
+	border-bottom: 1px solid #b1a9a2;
 }
 table, td {
   text-align: center;
@@ -68,11 +68,15 @@ table, td {
   vertical-align: middle;
 }
 body {
-  background-color: #1F1F1F;
-  color: #eeeeee;
+  background-color: #050505;
+  color: #f5f5f5;
   text-align: justify;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
+}
+body.bright {
+  background-color: #f5f5f5;
+  color: #050505;
 }
 .kimean {
   font-family: "Kimean";
