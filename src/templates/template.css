@@ -91,7 +91,7 @@ img:before {
   position: absolute;
   height: 50px;
   width: 50px;
-  background-image: url(src/img/flags.png);
+  background-image: url(../../src/img/flags.png);
 }
 
 a.btn {
