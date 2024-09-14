@@ -19,6 +19,8 @@ jobs:
       with:
         root: ./
   upload-log:
+    if: ${{ always() }}
+    needs: [lint-md, lint-html]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
