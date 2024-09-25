@@ -3,31 +3,31 @@ lang_list = [
         "name" : "Apabara",
         "conscript" : null,
         "en-name" : "Apabaric",
-        "tags" : null,
+        "tags" : [],
     },
     {
         "name" : "Mäzu",
         "conscript" : null,
         "en-name" : "Atu-Matstonian Creole",
-        "tags" : null,
+        "tags" : [],
     },
     {
         "name" : "Atusa",
         "conscript" : "atusan",
         "en-name" : "Atusan",
-        "tags" : null,
+        "tags" : [],
     },
     {
         "name" : "Atu",
         "conscript" : "atusan",
         "en-name" : "Atu",
-        "tags" : null,
+        "tags" : [],
     },
     {
         "name" : "Duhknan",
         "conscript" : null,
         "en-name" : "Dooknan",
-        "tags" : null,
+        "tags" : [],
     },
 ];
 
