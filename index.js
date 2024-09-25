@@ -3,13 +3,13 @@ lang_list = [
         "name" : "Apabara",
         "conscript" : null,
         "en-name" : "Apabaric",
-        "tags" : [],
+        "tags" : ["UAL"],
     },
     {
         "name" : "Mäzu",
         "conscript" : null,
         "en-name" : "Atu-Matstonian Creole",
-        "tags" : [],
+        "tags" : ["ArtLang, ConScript"],
     },
     {
         "name" : "Atusa",
@@ -52,5 +52,5 @@ for (i = 0; i < lang_list.length; i++) {
 
     op = document.createElement("div");
     op.innerHTML = optext;
-    menu.insertChild(op);
+    menu.appendChild(op);
 }
