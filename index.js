@@ -31,7 +31,7 @@ lang_list = [
     },
 ];
 
-menu = Document.getElementById('menu');
+menu = document.getElementById('menu');
 
 for (i = 0; i < lang_list.length; i++) {
     lang = lang_list[i];
@@ -50,7 +50,7 @@ for (i = 0; i < lang_list.length; i++) {
     optext = optext + "\n" + item;
     optext = optext + "\n<a>";
 
-    op = Document.createElement("div");
+    op = document.createElement("div");
     op.innerHTML = optext;
     menu.insertChild(op);
 }
