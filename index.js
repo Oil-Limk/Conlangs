@@ -3,31 +3,85 @@ lang_list = [
         "name" : "Apabara",
         "conscript" : null,
         "en-name" : "Apabaric",
+        "dir" : "apabara",
         "tags" : ["UAL"],
     },
     {
         "name" : "Mäzu",
         "conscript" : null,
         "en-name" : "Atu-Matstonian Creole",
-        "tags" : ["ArtLang, ConScript"],
+        "dir" : "mazu",
+        "tags" : ["ArtLang", "ConScript"],
     },
     {
-        "name" : "Atusa",
+        "name" : "atusa",
         "conscript" : "atusan",
         "en-name" : "Atusan",
-        "tags" : [],
+        "dir" : "atusa",
+        "tags" : ["ArtLang", "ConScript"],
     },
     {
-        "name" : "Atu",
+        "name" : "atu",
         "conscript" : "atusan",
         "en-name" : "Atu",
-        "tags" : [],
+        "dir" : "atu",
+        "tags" : ["ArtLang", "ConScript"],
     },
     {
         "name" : "Duhknan",
         "conscript" : null,
         "en-name" : "Dooknan",
-        "tags" : [],
+        "dir" : "duhknan",
+        "tags" : ["ArtLang"],
+    },
+    {
+        "name" : "Exwe",
+        "conscript" : null,
+        "en-name" : "Etre",
+        "dir" : "exwe",
+        "tags" : ["JokeLang"],
+    },
+    {
+        "name" : "Fasio",
+        "conscript" : null,
+        "en-name" : "Phasian",
+        "dir" : "fasio",
+        "tags" : ["ArtLang"],
+    },
+    {
+        "name" : "GACS",
+        "conscript" : null,
+        "en-name" : "Great Apes Comm. Sys.",
+        "dir" : "gacs",
+        "tags" : ["Signed"],
+    },
+    {
+        "name" : "Kjavotli",
+        "conscript" : null,
+        "en-name" : "Kijavol",
+        "dir" : "kijavol",
+        "tags" : ["Pidgin"],
+    },
+    {
+        "name" : "tuhukima",
+        "conscript" : "kimean",
+        "en-name" : "Kimean",
+        "dir" : "kimean",
+        "tags" : ["ConScript"],
+    },
+    {
+        "name" : "Maztokli",
+        "conscript" : null,
+        "en-name" : "Matstonian",
+        "dir" : "matstonian",
+        "tags" : ["ArtLang"],
+    },
+    {
+        "name" : "Màztoqin",
+        "conscript" : null,
+        "en-name" : "Old Matstonian",
+        "dir" : "old-matstonian",
+        "tags" : ["ArtLang"],
     },
 ];
 
@@ -40,16 +94,14 @@ for (i = 0; i < lang_list.length; i++) {
     if (lang['conscript'])
         lang_name = "<span class='" + lang['conscript'] + "'>" + lang_name + "</span>";
     item = lang_name + " <i>(" + lang_en_name + ")</i>";
-    tags = lang['tags'];
-    for (j = 0; j < tags.length; j++) {
-        item = item + " (#" + tags[j] + ")";
+    tags_list = lang['tags'];
+    tags = " | ";
+    for (j = 0; j < tags_list.length; j++) {
+        tags = tags + " (#" + tags_list[j] + ")";
     }
-    dir = lang_en_name.toLowerCase();
-    optext = "<img class='rounded' src='wiki/"+dir+"/flag.png' alt='"+lang_en_name+" Flag'>";
-    optext = optext + "\n<a class='nor' href='wiki/"+dir+" title="+lang_en_name+">";
-    optext = optext + "\n" + item;
-    optext = optext + "\n<a>";
-
+    dir = lang['dir'];
+    optext = "<img class='rounded' src='wiki/" + dir + "/flag.png' alt='" + lang_en_name + " Flag'>\
+    <a class='nor' href='wiki/" + dir + "' title=" + lang_en_name + ">" + item + "</a>" + tags;
     op = document.createElement("div");
     op.innerHTML = optext;
     menu.appendChild(op);
