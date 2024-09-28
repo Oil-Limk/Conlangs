@@ -86,24 +86,10 @@ body.bright {
   font-family: "Atusan";
 }
 img.rounded {
-  text-align: center;
-  width: 270px;
-  margin: 25px 25px 5px;
+  /* text-align: center; */
+  height: 80px;
+  /* margin: 25px 25px 5px; */
   border-radius: 12px;
-}
-a.btn {
-  background-color: #151515;
-  display: inline-block;
-  color: #f5f5f5;
-  font-size: 30px;
-  text-align: center;
-  text-decoration: none;
-  font-weight: bold;
-  padding: 12px 22px;
-  border-radius: 12px;
-}
-a.btn:hover, a.btn:active {
-  background-color: #3F3F3F;
 }
 a.nor {
   color: lightblue;
@@ -111,7 +97,7 @@ a.nor {
   text-decoration: none;
 }
 a.nor:hover {
-  color: red;
+  color: rgb(255, 70, 70);
   background-color: transparent;
   text-decoration: none;
 }
@@ -119,17 +105,4 @@ a.nor:active {
   color: violet;
   background-color: transparent;
   text-decoration: none;
-}
-a.menu {
-  color: #f5f5f5;
-  display: inline-block;
-  background-color: transparent;
-  text-decoration: none;
-  font-size: 1.6em;
-  padding: 12px 0px;
-  width: 270px;
-  border-radius: 12px;
-}
-a.menu:hover {
-  background-color: #3F3F3F;
 }
