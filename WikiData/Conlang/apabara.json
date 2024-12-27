@@ -1,0 +1,25 @@
+{
+    "code" : "APBRA",
+    "summary" : {
+        "name" : "Apabara",
+        "autonym" : "Apabara",
+        "langtype" : "A priori",
+        "description" : "Ex-IAL, now a mix of South American Spanish and Portuguese, sprinkled with French phonetics and Latin adpositions.",
+        "typology" : {}
+    },
+    "phonology" : {
+        "inventory" : [],
+        "phonotactics" : {}
+    },
+    "orthography" : {
+        "categories" : [],
+        "conscript" : ""
+    },
+    "grammar" : {
+        "tables" : {},
+        "irregular" : {}
+    },
+    "vocabulary" : {},
+    "literature" : {},
+    "" : ""
+}
