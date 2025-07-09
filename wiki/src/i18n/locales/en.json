@@ -1,0 +1,10 @@
+{
+  "site_name": "ConLang's Wiki",
+  "nav": {
+    "home": "Home",
+    "about": "About {site_name}"
+  },
+  "home": {
+    "hello": "hellooo"
+  }
+}

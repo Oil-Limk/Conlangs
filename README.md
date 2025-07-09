@@ -15,3 +15,13 @@ This is my repository for my [conlangs](https://oil-limk.github.io/Conlangs)!
 - [ ] Update Dooknan
 - [ ] Update GACS
 - [ ] Update Apabara
+
+separate website views from website content
+
+new content should be added as easily as adding a new .json and importing it \*
+
+get locale via url (ie ./en/...) and get lang via get (ie ./en/.../lang?=CODE) \*\*
+
+\* should be revised
+
+\*\* backend storing will be certantly more difficult
